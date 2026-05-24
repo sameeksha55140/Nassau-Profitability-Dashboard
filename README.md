@@ -4,6 +4,9 @@ Nassau Candy Distributor – Product Line Profitability & Margin Performance Ana
 
 This project focuses on analyzing product-level profitability and margin performance for Nassau Candy Distributor using data analytics and interactive business intelligence dashboards.
 
+Live demo 🌐
+https://sameeksha55140-nassau-profitability-dashboard-app-zviy9v.streamlit.app/
+
 The objective of the project is to identify:
 
 * High-profit product lines
@@ -179,26 +182,29 @@ streamlit run app.py
 
  📸 Dashboard Preview
 
-Add screenshots here after uploading dashboard images to GitHub.
-"C:\Users\samee\Pictures\Screenshots\Screenshot (21).png"
-
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/b757e2a1-97c0-42b8-a770-3acb27f1b5fc" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/ba3bd6f7-0aba-452b-a84c-7649780d171f" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/9b530a0b-a2f9-4320-a9c2-d44ded1f7a38" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/ee20c7a7-6aa6-4f31-a561-4b69e7f5e3c5" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/356c5c99-c243-40b3-aaf5-c2b92c656ce6" />
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/28660ac2-e285-4ab8-9b51-bb11000c54b0" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/9f468c6c-ae10-4994-84d6-e02b513fd610" />
 
 # 🔗 Project Links
 
 ## GitHub Repository
 
-.
+ https://github.com/sameeksha55140/Nassau-Profitability-Dashboard
 
 ## Streamlit Live App
 
-Add your deployed Streamlit app link here.
-
+https://sameeksha55140-nassau-profitability-dashboard-app-zviy9v.streamlit.app/
 ---
 
 # 👩‍💻 Developed By
 
 Sameeksha Chowti
-Data Science Intern – Unified Mentor
+Data Science
 
 ---
 
